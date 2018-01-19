@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/smayszak/ewebby/issues"
   },
-  "homepage": "https://github.com/smayszak/ewebby#readme"
+  "homepage": "https://github.com/smayszak/ewebby#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
